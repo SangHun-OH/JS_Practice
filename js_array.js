@@ -36,7 +36,6 @@ books.shift();
 
 books.push(book);
 //console.log(books);
-
 // 6. Delete the book object you just added.
 
 books.pop();
