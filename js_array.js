@@ -46,6 +46,7 @@ books.pop();
 books.splice(2,0,book);
 //console.log(books);
 
+
 // 8. Delete the book object you just added.
 
 books.splice(2,1);
