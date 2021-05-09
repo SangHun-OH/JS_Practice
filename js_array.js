@@ -20,7 +20,6 @@ let book = {title: "Cinderella", price: 30, author: "Perrault", rank: 5};
 // 2. What is the type of books? Are there any Javascript types?
 
 // reference 타입.
-
 //3. Add a book object to the front of books array.
 
 books.unshift(book);
