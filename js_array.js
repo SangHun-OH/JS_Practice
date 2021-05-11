@@ -25,7 +25,6 @@ let book = {title: "Cinderella", price: 30, author: "Perrault", rank: 5};
 books.unshift(book);
 //console.log(books);
 
-
 //4. Delete the book object you just added.
 
 books.shift();
