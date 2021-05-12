@@ -28,7 +28,8 @@ books.unshift(book);
 //4. Delete the book object you just added.
 
 books.shift();
-//console.log(books);
+//console.log(books)
+
 
 // 5. Add a book object to the end of books arra
 books.push(book);
